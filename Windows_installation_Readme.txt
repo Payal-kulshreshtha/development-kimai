@@ -1,4 +1,5 @@
 1. download kimai
+DB setting
  mysql -u root -p
 Enter password: (Enter root Password>
 
